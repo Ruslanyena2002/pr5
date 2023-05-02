@@ -1,0 +1,17 @@
+{
+    "name": "38099/backend_pr5",
+    "autoload": {
+        "psr-4": {
+            "38099\\BackendPr5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yena Ruslan",
+            "email": "r.s.yena@student.khai.edu"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
